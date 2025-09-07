@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.AssemblyInfo.cs
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#\GameApp\bin\Debug\net9.0\GameApp.exe
+C:\Users\ACER\Documents\C#\GameApp\bin\Debug\net9.0\GameApp.deps.json
+C:\Users\ACER\Documents\C#\GameApp\bin\Debug\net9.0\GameApp.runtimeconfig.json
+C:\Users\ACER\Documents\C#\GameApp\bin\Debug\net9.0\GameApp.dll
+C:\Users\ACER\Documents\C#\GameApp\bin\Debug\net9.0\GameApp.pdb
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.dll
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\refint\GameApp.dll
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.pdb
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\GameApp.genruntimeconfig.cache
+C:\Users\ACER\Documents\C#\GameApp\obj\Debug\net9.0\ref\GameApp.dll
